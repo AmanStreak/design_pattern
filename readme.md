@@ -1,4 +1,4 @@
-  # 🎨 **Design Patterns in Dart** ![Dart Logo](https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382d6b6c4c7e4e4e6b7c8b8b8b8.svg)
+  # 🎨 **Design Patterns in Dart** ![Dart Logo](https://dart.dev/assets/img/logo/logo-white-text.svg)
 
 - Design patterns are reusable solutions to common software design problems.
 
